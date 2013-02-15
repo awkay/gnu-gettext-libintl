@@ -5,6 +5,10 @@
   <version>0.18.2</version>
   <packaging>jar</packaging>
 
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
   <name>GNU Gettext libintl</name>
   <description>The libintl Library for accessing GNU Gettext Java bundles</description>
   <url>http://www.gnu.org/software/gettext/</url>
